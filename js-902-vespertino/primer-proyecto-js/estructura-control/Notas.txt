@@ -1,0 +1,3 @@
+estructura de control nos permite manejar y tener mas control sobre nuestro codigo y de este modo podemos dalr la correcta orientacion en funcion de ciertas condiciones lo que adelante conoceremos como bifurcaciones o bucles.
+las bifurcaciones nos permite ir por un camino u otro si se cumple la condicione o ir por camino nesesario asta que la condicion se cumpla.
+iniciar el programa si el numero ingresado es positivo o negativo
